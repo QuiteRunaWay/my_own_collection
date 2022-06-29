@@ -1,3 +1,7 @@
 # Ansible Collection - leunovev.file_create
 
-Documentation for the collection.
+Данная коллекция предназначена для создания текстовых файлов.
+
+file_name - наименование создаваемого файла
+path - это путь создания файла
+content - содержимое, которое будет записываться в файл
