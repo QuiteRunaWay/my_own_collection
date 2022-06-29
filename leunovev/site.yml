@@ -1,0 +1,8 @@
+---
+- name: Create local file
+  hosts: localhost
+  collections:
+    leunovev.filecreate
+  tasks:
+  - import_role:
+    name: filecreate

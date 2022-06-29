@@ -1,5 +1,0 @@
----
-- name: Create local file
-  hosts: localhost
-  roles: 
-    - file_create  
