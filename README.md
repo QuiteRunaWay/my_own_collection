@@ -64,13 +64,16 @@
 ![image](https://user-images.githubusercontent.com/92969676/176426846-3a250505-cba2-4c4d-94ae-c63ccb5b18f0.png)
 
 ### 8. Выйдите из виртуального окружения.
+
+### Сделано
+
 ### 9. Инициализируйте новую collection: `ansible-galaxy collection init my_own_namespace.yandex_cloud_elk`
 
-![image](https://user-images.githubusercontent.com/92969676/176427023-490a10b7-0f11-47d0-9520-d8e186daa782.png)
+### Сделано
 
 ### 10. В данную collection перенесите свой module в соответствующую директорию.
 
-![image](https://user-images.githubusercontent.com/92969676/176427482-544d652a-a7df-4c34-9252-48180fd93be4.png)
+### Сделано
 
 ### 11. Single task playbook преобразуйте в single task role и перенесите в collection. У role должны быть default всех параметров module
 
@@ -94,8 +97,12 @@
 
 ### 16. Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`
 
-![image](https://user-images.githubusercontent.com/92969676/176468264-34ddaa92-3581-4d71-a636-040ef0c05610.png)
+![image](https://user-images.githubusercontent.com/92969676/176490869-7b7a0519-55a1-4d73-97a1-96191342f4fa.png)
 
 ### 17. Запустите playbook, убедитесь, что он работает.
 
+![image](https://user-images.githubusercontent.com/92969676/176491442-8011c5e1-c984-4d68-937f-58c7894befb7.png)
+
 ### 18. В ответ необходимо прислать ссылку на репозиторий с collection
+
+### Приложил.
