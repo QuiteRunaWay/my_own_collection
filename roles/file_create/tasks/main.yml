@@ -1,0 +1,7 @@
+---
+# tasks file for file_create
+- name: Test module
+  my_own_module: 
+    file_name: 'test.txt'
+    path: '/tmp'
+    content: "Test_content\n"
