@@ -73,10 +73,29 @@
 ![image](https://user-images.githubusercontent.com/92969676/176427482-544d652a-a7df-4c34-9252-48180fd93be4.png)
 
 ### 11. Single task playbook преобразуйте в single task role и перенесите в collection. У role должны быть default всех параметров module
+
+### Сделано
+
 ### 12. Создайте playbook для использования этой role.
+
+### Сделано
+
 ### 13. Заполните всю документацию по collection, выложите в свой репозиторий, поставьте тег `1.0.0` на этот коммит.
+
+### Сделано
+
 ### 14. Создайте .tar.gz этой collection: `ansible-galaxy collection build` в корневой директории collection.
+
+### Сделано
+
 ### 15. Создайте ещё одну директорию любого наименования, перенесите туда single task playbook и архив c collection.
+
+### Сделано
+
 ### 16. Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`
+
+![image](https://user-images.githubusercontent.com/92969676/176468264-34ddaa92-3581-4d71-a636-040ef0c05610.png)
+
 ### 17. Запустите playbook, убедитесь, что он работает.
+
 ### 18. В ответ необходимо прислать ссылку на репозиторий с collection
